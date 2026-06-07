@@ -1,0 +1,11 @@
+[package]
+name = "abo-builder"
+version = "0.1.0"
+edition = "2024"
+description = "ELF to ABO converter for AnnwynOS"
+
+[[bin]]
+name = "abo-builder"
+path = "src/main.rs"
+
+[dependencies]
