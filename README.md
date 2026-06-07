@@ -6,7 +6,7 @@
 
 ## ◉ What is abo-builder?
 
-`abo-builder` converts ELF64 executables into the ABO (Application Bundle Object) format used by Annwyn.
+`abo-builder` converts ELF64 executables into the ABO (Application/Annwyn Bundle Object) format used by Annwyn.
 
 The tool is responsible for:
 
